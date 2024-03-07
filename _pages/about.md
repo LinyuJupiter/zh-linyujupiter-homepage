@@ -25,8 +25,8 @@ redirect_from:
 
 与国内外多所知名高校，包括卡内基梅隆大学（CMU）、华中科技大学、悉尼科技大学、西安交通大学、哈尔滨工业大学等保持紧密合作关系。指导的学生在华为、腾讯、字节跳动、Facebook、微软、亚马逊等知名企业就业，以及在卡内基梅隆大学（CMU）、马里兰大学、悉尼科技大学等海外知名大学深造。
 
-# 🔥 新闻
-<span class='anchor' id='新闻'></span>
+<span class='anchor' id='news'></span>
+# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
