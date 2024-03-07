@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "翎雨Jupiter"
-description              : "中山大学深圳校区智能科学与技术专业本科生，研究方向为计算机视觉和自然语言处理等人工智能相关领域"
-repository               : "LinyuJupiter/linyujupiter.github.io"
+description              : "中山大学深圳校区，智能工程学院，智能科学与技术专业的本科生，研究方向为计算机视觉和自然语言处理等人工智能相关领域"
+repository               : "LinyuJupiter/zh-linyujupiter-homepage"
 google_scholar_stats_use_cdn : false
 
 # google analytics
