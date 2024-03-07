@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "翎雨Jupiter"
-description              : "Undergraduate students majoring in Intelligent Science and Technology at Sun Yat sen University Shenzhen Campus, with research interests in artificial intelligence related fields such as computer vision and natural language processing"
+description              : "中山大学深圳校区智能科学与技术专业本科生，研究方向为计算机视觉和自然语言处理等人工智能相关领域"
 repository               : "LinyuJupiter/linyujupiter.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "翎雨Jupiter"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sun Yat-sen University (Shenzhen Campus)"
-  location         : "Shenzhen, China"
+  bio              : "中山大学"
+  location         : "深圳, 中国"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
