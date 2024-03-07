@@ -25,25 +25,31 @@ redirect_from:
 
 与国内外多所知名高校，包括卡内基梅隆大学（CMU）、华中科技大学、悉尼科技大学、西安交通大学、哈尔滨工业大学等保持紧密合作关系。指导的学生在华为、腾讯、字节跳动、Facebook、微软、亚马逊等知名企业就业，以及在卡内基梅隆大学（CMU）、马里兰大学、悉尼科技大学等海外知名大学深造。
 
+<span class='anchor' id='news'></span>
 # 🔥 新闻
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='projects'></span>
 # 💬 项目
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 荣誉与奖项
 - *2024.02* 国际大学生数学建模竞赛(MCM/ICM)。 
 - *2023.03* 2023年智能工程学院首届“智数杯”数据分析赛三等奖。 
 
+<span class='anchor' id='educations'></span>
 # 📖 教育经历
 - *2021.09 - 2025.06 (至今)*, 中山大学深圳校区, 智能工程学院, 智能科学与技术专业, 深圳。
 - *2018.09 - 2021.06*, 河源中学, 河源。
 
+<span class='anchor' id='publications'></span>
 # 📝 发表作品 
 - 暂无。
 
+<span class='anchor' id='internships'></span>
 # 💻 实习经历
 - *2024.01 - 2024.02*, [广东风华高新科技股份有限公司](https://www.china-fenghua.com/), 人工智能工程师, 肇庆。
 - *2023.07 - 2023.08*, 广东万师达智能科技有限公司, 软件开发实习生, 河源。
