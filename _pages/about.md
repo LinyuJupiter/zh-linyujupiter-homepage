@@ -17,13 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-中山大学智能工程学院智能科学与技术专业大三学生，现跟随高陈强教授的课题组协助参与部分科研任务，目前主要方向为计算机视觉方面，参与教室场景下智能行为检测任务。
+刘芳新，广东河源人，2021年高考进入中山大学（深圳校区）智能工程学院，现为智能科学与技术专业的大三学生。
+
+喜欢编程，现有自己基于Python开发的软件两款(隐私限制，不方便展示)，软件用户上百，全部前后端与运维工作由我一人完成。[这里](http://linyujupiter.icu)是我自己搭建的网站主页，[这里](http://linyujupiter.icu:3003)是我的博客网站，欢迎访问。
+
+现跟随[高陈强](https://gaocq.github.io/index.html)教授的课题组协助参与部分科研任务，目前主要方向为计算机视觉方面，主要参与教室场景下智能行为检测任务。
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 与两名同专业同学一起参加国际大学生数学建模竞赛(MCM/ICM)，担任论文手，准时完成论文并提交。
+
+- *2024.01*: &nbsp;🎉🎉 在寒假实习(风华高科)期间，与另一位同事一起搭建的智能文档助手应用与智能物料机器人应用得到领导高度赞誉，目前该项目已经申报总公司的项目论证。
+
+- *2023.08*: &nbsp;🎉🎉 在暑期实习期间，独立设计开发的软件小白自装(宜春版)上线，甲方体验良好并结算合同费用。
+
+- *2023.05*: &nbsp;🎉🎉 软件三七自动识别(在线版)上线，吸引了大批用户资源。目前该软件已和本地版结合，并不断保持更新维护。
+
+- *2023.03*: &nbsp;🎉🎉 自研开发的软件三七自动识别(本地版)上线，用户体验反馈良好。
+
+- *2022.07*: &nbsp;🎉🎉 在计算机类（深圳）的大类排名前三分之一（大类共900人），以第一志愿进入智能工程学院智能科学与技术专业继续进修本科学业。
+
+- *2021.07*: &nbsp;🎉🎉 在河源中学高考理科排名44名，以全省4900名左右的成绩被中山大学计算机类（深圳）录取。
+
+- *2018.08*: &nbsp;🎉🎉 以中考全校第一(全市前二十)的名次进入河源中学就读高中。
 
 <span class='anchor' id='projects'></span>
 # 💬 项目
