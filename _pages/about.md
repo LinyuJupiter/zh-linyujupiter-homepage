@@ -34,7 +34,7 @@ redirect_from:
 
 - *2024.07*: &nbsp;🎉🎉 加入腾讯金融科技，任测试开发岗位，从事基于大模型等人工智能技术提升研发效率的工作。
 
-- *2024.06*: &nbsp;🎉🎉 参加“挑战杯”中国大学生创业计划竞赛，与团队成员一起获得河北省二等奖。
+- *2024.06*: &nbsp;🎉🎉 参加"挑战杯"中国大学生创业计划竞赛，与团队成员一起获得河北省二等奖。
 
 - *2024.02*: &nbsp;🎉🎉 与两名同专业同学一起参加国际大学生数学建模竞赛(MCM/ICM)，担任论文手。获得S奖。
 
@@ -54,7 +54,8 @@ redirect_from:
 # 💬 项目
 
 ## screenshot2code——基于GLM-4的将网页截图转换成HTML代码的工具
-*2023.12 - 2024.01* - 个人项目
+
+*2023.12 - 2024.01* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/screenshot2code)
 
 - 使用设计图片的形式写出前端页面代码可以节省前端工程师的大量时间，本项目旨在使用国产大模型识别屏幕截图中的网页样式，并生成页面代码
 - 探索国产大模型在视觉识别与代码生成方面的能力，确定选择智谱的GLM-4模型的技术方案
@@ -77,29 +78,29 @@ redirect_from:
 - 参考slowfast网络，提出一个具有双重分支的网络，用来分离时空特征。在主分支中，使用较低的帧速率提取空间信息。而在辅分支中，使用较高的帧速率来提取时间信息。这两个分支的信息通过交叉注意力实现双向融合；
 - 提出的新网络结构在公开数据集上获得75.2\%的F1分数，而在新提出的教室场景行为识别数据集上获得83.41\%的准确率，超越了baseline模型，推理成本仅增加13.41\%。
 
-## 基于 Raft 的容错的分布式键值存储系统 
-*2023.11 - 2024.01* - 个人项目
+## 基于 Raft 的容错的分布式键值存储系统
+*2023.11 - 2024.01* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/Distributed-Raft)
 - 基于 MIT 6.824 分布式课程中的项目框架，利用 Go 语言实现容错的分布式键值（key-value）存储系统；
 - 查阅 Raft-Extended 论文，完成 Raft Leader 选举和心跳、日志复制与一致性、快照机制与日志压缩等功能；
 - 分别设计客户端和服务端，完善增删查改等功能，实现数据库和 Raft 算法的结合；
 - 设计容错方案，完成节点断网、RPC 丢包、网络分区等故障测试；
 - 完成高并发测试，系统可实现在规定时间内处理大量的并发请求。
 
-## 基于卷积神经网络的苹果树叶片病害检测 
-*2023.10 - 2023.11* - 个人项目
+## 基于卷积神经网络的苹果树叶片病害检测
+*2023.10 - 2023.11* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/Identify-the-category-of-foliar-diseases-in-apple-trees)
 - 对数据集标签进行 one-hot 编码，将多分类任务转化为多标签分类任务；
 - 分别采用 LeNet 和 VIT 模型架构设计并训练神经网络模型，对比分析 CrossEntropyLoss 与 ArcFaceLoss 在解决细
 粒度分类问题上的性能差异，最终训练出的 LeNet 模型于测试集上准确率达 89.5%。
 
-## 基于 YoLov8 与 Tesser act-OCR 的车流量分析系统 
-*2023.06 - 2023.07* - 个人项目
+## 基于 YoLov8 与 Tesser act-OCR 的车流量分析系统
+*2023.06 - 2023.07* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/Traffic-Flow-Analysis-System)
 - 使用开源数据集训练车型识别与车辆识别的 YoLo 神经网络模型，并在多个道路监控视频上进行测试；
 - 训练 Tesseract-OCR 文字识别模型，实现手写文字识别实验，并将模型应用至车牌文字识别；
 - 使用 Python 设计车流量计数算法，通过 BoT-SORT 算法实现目标追踪，并通过区域判定的方式判断车流量；
 - 采用 tkinter 库设计项目 UI 界面，添加简易交互控件与信息显示控件，利于项目拓展应用。
 
-## 基于 simulink 的小车自动寻路与控制仿真 
-*2023.06 - 2023.07* - 个人项目
+## 基于 simulink 的小车自动寻路与控制仿真
+*2023.06 - 2023.07* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/Fundamentals-of-autopilot-project)
 - 在系统生成的随机 2D 地图上，使用 A*算法实现起点至终点的可行路径规划；
 - 设计缩放与插值策略，在加速路径规划的基础上，通过贝塞尔曲线插值法与 De Casteljau 算法对生成的可行路径
 进行优化，采用分段平滑化的方式平滑路径并处理碰撞问题；
@@ -109,7 +110,7 @@ redirect_from:
 - 在竞速中获得 MATLAB 组前 3 名（总 35 人）。
 
 ## C++实现双人中国象棋游戏 
-*2022.11 - 2023.01* - 个人项目
+*2022.11 - 2023.01* - 个人项目 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/>](https://github.com/LinyuJupiter/Two-Player-Chinese-Chess-Game)
 - 设计程序底层架构，包括棋子基类与棋盘基类、棋子状态 vector 等，在棋子基类之上实现 14 种棋子派生类，通
 过仿 vector 类储存棋子存活状态，使用移前推演和移后验证双重检查策略，确保棋子行动逻辑符合规则；
 - 通过 IO 流与自定义文件格式，实现游戏进度保存与加载，并添加检测机制，防止残局不合理情况出现；
@@ -117,9 +118,9 @@ redirect_from:
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 荣誉与奖项
-- *2024.07* “挑战杯”中国大学生创业计划竞赛河北省二等奖
+- *2024.07* "挑战杯"中国大学生创业计划竞赛河北省二等奖
 - *2024.02* 国际大学生数学建模竞赛(MCM/ICM)。 
-- *2023.03* 智能工程学院首届“智数杯”数据分析赛三等奖。 
+- *2023.03* 智能工程学院首届"智数杯"数据分析赛三等奖。 
 
 <span class='anchor' id='educations'></span>
 # 📖 教育经历
